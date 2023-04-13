@@ -28,7 +28,14 @@ body {
 
   .left {
     float: left;
-    width: 180px;
+    width: 450px;
+    margin: 0;
+    padding: 1em;
+  }
+
+  .right {
+    float: right;
+    width: 450px;
     margin: 0;
     padding: 1em;
   }
